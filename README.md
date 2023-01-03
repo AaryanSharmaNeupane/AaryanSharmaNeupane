@@ -12,11 +12,11 @@
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=aaryansharmaneupane" alt="aaryansharmaneupane" />
-  </a> 
+  </a>&nbsp; 
 </p>
 
 <p>
-<img align="right" alt="Coding" width="250" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<img align="right" alt="Coding" width="320" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 - 🔭 I’m currently working on [Yatraa](https://github.com/AaryanSharmaNeupane/yatraa)
 
@@ -25,7 +25,9 @@
 - 💬 Ask me about **Android, iOS, web development**
 
 - 📫 How to reach me **rustuneupane09@gmail.com/sonofnaleen@gmail.com**
-
+&nbsp;
+  &nbsp;
+  &nbsp;
 </p>
 <p>
 <h3 align="left">Languages and Tools:</h3>
