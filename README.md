@@ -62,11 +62,11 @@
 </p>
 
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaryansharmaneupane&show_icons=true&locale=en&layout=compact" alt="aaryansharmaneupane" />&nbsp;
-</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaryansharmaneupane&show_icons=true&locale=en" alt="aaryansharmaneupane" /></p>
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaryansharmaneupane&show_icons=true&theme=onedark)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaryansharmaneupane&layout=compact)](https://github.com/aaryansharmaneupane/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaryansharmaneupane&" alt="aaryansharmaneupane" /></p>
 
