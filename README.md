@@ -1,3 +1,4 @@
+<h1 align="left">Aaryan Sharma Neupane</h1>
 <h3 align="left">
   Hello, My name is Aaryan Sharma Neupane. I'm just an enthusiast who is willing to learn new things everyday.
 </h3>
