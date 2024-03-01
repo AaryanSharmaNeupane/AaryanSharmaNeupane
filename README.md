@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Android, iOS, web development**
 
-- 📫 How to reach me **rustuneupane09@gmail.com/sonofnaleen@gmail.com**
+- 📫 How to reach me **sonofnaleen@gmail.com**
 
 
 <p>
