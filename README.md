@@ -15,9 +15,9 @@
 </p>
 
 
-- 🔭 I’m currently working on [Yatraa](https://github.com/AaryanSharmaNeupane/yatraa)
+- 🔭 I’m currently working on [Cinemate](https://github.com/AaryanSharmaNeupane/cinemate_react.git)
 
-- 🌱 I’m currently learning **Flutter, Django**
+- 🌱 I’m currently learning **React, Flutter**
 
 - 💬 Ask me about **Android, iOS, web development**
 
