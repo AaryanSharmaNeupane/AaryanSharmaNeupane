@@ -1,9 +1,9 @@
 <h1 align="left">Aaryan Sharma Neupane</h1>
 <h3 align="left">
-  Hello, My name is Aaryan Sharma Neupane. I'm just an enthusiast who is willing to learn new things everyday.
+  Hello, my name is Aaryan Sharma Neupane. I'm just an enthusiast who is willing to learn new things.
 </h3>
 <h5 align="left">
-  "A passionate frontend developer from Nepal"
+  "A passionate full-stack developer"
 </h5>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=aaryansharmaneupane&label=Profile%20views&color=0e75b6&style=flat" alt="aaryansharmaneupane" /> 
@@ -14,12 +14,7 @@
   </a>&nbsp; 
 </p>
 
-
-- 🔭 I’m currently working on [Cinemate](https://github.com/AaryanSharmaNeupane/cinemate_react.git)
-
-- 🌱 I’m currently learning **React, Flutter**
-
-- 💬 Ask me about **Android, iOS, web development**
+- 💬 Ask me about **Android, iOS, web development, web applications**
 
 - 📫 How to reach me **sonofnaleen@gmail.com**
 
